@@ -25,7 +25,7 @@ usage:
 
 ## Sign up/ Sign in
 
-  This project accomplised a website sign up/ sign in function, user's information will be store in database and password will be encrypted,
+  This project accomplised a website sign up/ sign in function, the database stores users' information and encrypts password
 
 ## Prerequisites
 
